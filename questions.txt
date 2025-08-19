@@ -1,1 +1,18 @@
+1) What is the capital of France?
+a) Berlin
+b) Madrid
+c) Paris
+d) Rome
+
+2) Who wrote '1984'?
+a) Orwell
+b) Shakespeare
+c) Hemingway
+d) Dickens
+
+3) What is 5 * 6?
+a) 11
+b) 30
+c) 56
+d) 20
 
